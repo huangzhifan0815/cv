@@ -12,7 +12,7 @@ last_name: Huang
 
        
 work:
-  - position: "A Study on Narratives of Early Modern Period in Chinese High School History Textbooks: Based on the Examination of Narrative Subject"
+  - position: "A Study on the Narratives of Early Modern History in the Unified Edition of High School History Textbooks: An Examination Based on \"Recontextualization\""
     company_name: 'Fudan University'
     company_url: ''
     company_logo: ''

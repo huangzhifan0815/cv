@@ -31,5 +31,3 @@ education:
 
 
 ---
-
-Research interests: narratives of the history textbooks, culture history of Italy in early-modern period
