@@ -33,9 +33,9 @@ work:
     summary: |
       Advisors: Prof. Rong Xiang, Assoc. Researcher Ding Yan  
       - Comparative Textbook Analysis: Conducted a detailed comparison of Chinese and Italian history textbooks, focusing on content structure and thematic differences.
-      - Cultural and Pedagogical Insights. Revealed how textbooks reflect each country's cultural and ideological
+      - Cultural and Pedagogical Insights: Revealed how textbooks reflect each country's cultural and ideological
       perspectives, influencing students' understanding of history.
-      - Practical Recommendations. Provided actionable recommendations for improving history textbook design, balancing national and global narratives.   
+      - Practical Recommendations: Provided actionable recommendations for improving history textbook design, balancing national and global narratives.   
  
 
 
