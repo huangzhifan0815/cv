@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'Yvonne'
 date: 2023-10-24
 type: landing
 
@@ -11,7 +11,7 @@ design:
 
 # Page sections
 sections:
-  - block: biography
+  - block: altbiography
     content:
       username: admin
       # Show a call-to-action button under your biography? (optional)
@@ -25,22 +25,61 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: experience
+  - block: YExperience  
     content:
       username: admin
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
+      is_education_first: true
+      style: 'text-align: justify; font-size: 0.8em;'
+  - block: workpage
+    content:
+      username: career
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      
+  - block: research
+    content:
+      username: research
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: true
+
+  - block: publications
+    content:
+      username: publications
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: true
+  - block: patent
+    content:
+      username: patents
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: true
+  - block: prize
+    content:
+      username: awards
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: true
   - block: skills
     content:
       title: Skills & Hobbies
       username: admin
-  - block: awards
-    content:
-      title: Awards
-      username: admin
+
   - block: languages
     content:
       title: Languages
