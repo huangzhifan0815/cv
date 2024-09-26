@@ -13,11 +13,12 @@ last_name: Huang
 
 work:
   - position: Wenzhou NO.23 Junior Middle School
-    company_name: Full-time Teacher of History & Society and Morality & Law
+    company_name: ''
     company_url: ''
     company_logo: ''
     date_start: 2014-08-01
     date_end: 2022-08-01
+    summary: Full-time Teacher of History & Society and Morality & Law
     line1: |-
       - Lead Teacher of of History & Society and Morality & Law, Grade 9
     line2:

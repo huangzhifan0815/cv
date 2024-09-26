@@ -11,6 +11,9 @@ last_name: Huang
 
 
 education:
+  - area: Narratives of Indigenous Peoples of the Americas in Chinese and Italian High School History Textbooks.  (With Journal Administrator)
+    institution: Huang.Y (2025)
+    summary: |
   - area: The Initial Functions of Tarot in 15th-Century Italy. (Under review, Cai Meng)
     institution: Huang.Y (2024)
     summary: |
